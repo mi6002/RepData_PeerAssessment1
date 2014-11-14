@@ -1,5 +1,8 @@
 # Reproducible Research: Peer Assessment 1
 
+#Assumptions
+It is assumed that the knitr package has been installed.
+It is further assumed that the data file has been downloaded and unzipped in the working directory.
 
 ## Loading and preprocessing the data
 
